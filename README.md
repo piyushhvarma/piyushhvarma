@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Piyush Varma  
+# Hello there, I'm Piyush Varma  
 
-🚀 **Engineering Student | Data Science & AI | Web Development | Open Source Contributor**  
+ **Engineering Student | Web Dev | Learning Data Science & AI | Always an Open Source Contributor**  
 
 I enjoy building **data-driven systems**, **scalable web applications**, and contributing to **open-source communities**.  
 My journey spans as I'm currently learning and experimenting with **Data Science**, **AI research**, **frontend engineering**, and **problem-solving with DSA**.
