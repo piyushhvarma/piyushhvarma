@@ -1,10 +1,11 @@
-# Hellllooooo
+# Helllloooooww
 
- **Engineering Student | Web Dev | Learning Data Science & AI | Always an Open Source Contributor**  
 
+Piyush this side...!!
 I enjoy building **data-driven systems**, **scalable web applications**, and contributing to **open-source communities**.  
 My journey spans as I'm currently learning and experimenting with **Data Science**, **AI research**, **frontend engineering**, and **problem-solving with DSA**.
 
+ Basically **Web Dev Lad | Learning Data Science (bulls***) & AI (coz why not) | Always an Open Source Contributor (dil se) **  
 ---
 
 ## 🌐 Socials
